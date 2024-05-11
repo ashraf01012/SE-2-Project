@@ -1,8 +1,10 @@
+import 'package:auth_module/dashboard/view/page/dashboard_page.dart';
+import 'package:auth_module/admin/view/page/admin_page.dart';
+import 'package:auth_module/components/button.dart';
+import 'package:auth_module/components/text_field.dart';
+import 'package:auth_module/pages/forgot_pw_page.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:project/components/button.dart';
-import 'package:project/pages/forgot_pw_page.dart';
-import 'package:project/components/text_field.dart';
 
 class LoginPage extends StatefulWidget {
   final Function()? onTap;
