@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "194538245814",
+    "project_id": "masterpart-39497",
+    "storage_bucket": "masterpart-39497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194538245814:android:8bbe7cb2ee30efddfba017",
+        "android_client_info": {
+          "package_name": "com.example.auth_module"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194538245814-opq3btj8fkdf0fhoc8fcidlg6bs9ep1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFetLJfYg7r2ax8_zPtOeaH5A1cxinTu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194538245814-opq3btj8fkdf0fhoc8fcidlg6bs9ep1f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "194538245814-524ud9ji1m1dltjpk81hr3vsu1i39ib9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authModule"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
