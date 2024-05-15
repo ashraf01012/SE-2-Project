@@ -7,7 +7,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
 class LoginPage extends StatefulWidget {
-  final Function()? onTap;
+  final Function()? onTap;//fixed function for buttons and text when pressed
   const LoginPage({super.key, required this.onTap});
 
   @override
