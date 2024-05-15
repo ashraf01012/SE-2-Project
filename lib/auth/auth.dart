@@ -16,7 +16,7 @@ stream: FirebaseAuth.instance.authStateChanges(),//that line makes the action of
 if(snapshot.hasData){
   return const HomePage();
 }
-//useris not logged in
+//user is not logged in
 else{
 return const LoginOrRegister();
 }
